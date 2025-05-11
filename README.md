@@ -1,6 +1,16 @@
 - 👋 Hi, I’m @adarshkizhakkayil
 - 👀 I’m software developer
-- 🌱 I’m currently learning MERN Typescript , Postgresql 
+
+My Tech Stack
+
+💻 Programming Languages: JavaScript, Typescript.
+
+🛠️ Frameworks: React, etc.
+
+📦 Databases: MongoDB, PostgreSQL, etc.
+
+🔧 Tools: Git, VSCode, , etc.
+
 
 <!---
 adarshkizhakkayil/adarshkizhakkayil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
