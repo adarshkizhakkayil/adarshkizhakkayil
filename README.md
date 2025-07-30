@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adarsh K</h1>
+<h1 align="center">Hi , I'm Adarsh K</h1>
 <h3 align="center">A curious coder from India who loves building things with code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkizhakkayil&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkizhakkayil" /> </p>
